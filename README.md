@@ -33,16 +33,16 @@ We choose Renet18
 
 ![](./README_IMG/4.png)
 
-![](./README_IMG/5.png)
+![](./README_IMG/5.PNG)
 
 
 
 4.0 Performance and the result
 
-![](./README_IMG/6.png)
+![](./README_IMG/6.PNG)
 
 5.0 Anvil app
 
-![](./README_IMG/7.png)
+![](./README_IMG/7.PNG)
 
 ![](./README_IMG/8.png)
