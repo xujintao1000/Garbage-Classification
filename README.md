@@ -3,7 +3,7 @@
 
 
 
-Thanks to Peyi yu, Hongliang Wang, Yangchi Fang and I to both working on this waste sorting project
+Thanks to Peyi yu, Hongliang Wang, Yangchi Fang, and I working on this waste sorting project.
 
 
 
@@ -41,7 +41,7 @@ We choose Renet18
 
 ![](./README_IMG/6.png)
 
-4.0 Anvil app
+5.0 Anvil app
 
 ![](./README_IMG/7.png)
 
