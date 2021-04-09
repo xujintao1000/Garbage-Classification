@@ -3,7 +3,7 @@
 
 
 
-Thanks to Peyi yu, Hongliang Wang, Yangchi Fang, and I working on this waste sorting project.
+Thanks to Peyi yu, Hongliang Wang, Yangchi Fang, and I (Jintao Xu) working on this waste sorting project.
 
 
 
